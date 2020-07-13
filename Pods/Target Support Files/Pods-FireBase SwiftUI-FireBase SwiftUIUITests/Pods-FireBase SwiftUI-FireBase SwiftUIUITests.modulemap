@@ -1,0 +1,6 @@
+framework module Pods_FireBase_SwiftUI_FireBase_SwiftUIUITests {
+  umbrella header "Pods-FireBase SwiftUI-FireBase SwiftUIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
